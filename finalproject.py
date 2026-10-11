@@ -4,7 +4,7 @@ import re
 # =========================
 # API Configuration
 # =========================
-API_URL = "https://unranked-cognition-eclipse.ngrok-free.dev"
+API_URL = "ADD_YOUR_NGROK_URL_HERE"
 
 HEADERS = {"ngrok-skip-browser-warning": "true"}
 TIMEOUT = 600  # the model can take a while on Kaggle
